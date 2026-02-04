@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>💖</title>
+  <link rel="stylesheet" href="yes_style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Juhu! 💖</h1>
+    <p>Ich wusste, dass du Ja sagst, Skadi 🥰</p>
+    <p>Ich liebe dich.</p>
+  </div>
+
+</body>
+</html>
